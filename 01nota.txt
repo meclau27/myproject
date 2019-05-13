@@ -1,2 +1,7 @@
+test confilict git
  linie1nota01
+<<<<<<< HEAD
 conflict part2
+=======
+
+>>>>>>> refs/remotes/origin/master
